@@ -4,6 +4,8 @@
 
 **Codelight** is a WordPress plugin that integrates syntax highlighting into your posts and pages using [Highlight.js](https://highlightjs.org/). It allows you to choose from a variety of themes and customize syntax highlighting for code blocks. The plugin is easy to configure, providing an admin settings page where you can select the syntax highlighting theme and decide on the post types for which the highlighting should be enabled.
 
+![preview](./.github/preview.png)
+
 ## Features
 
 - **Syntax Highlighting**: Adds syntax highlighting to code blocks in your WordPress posts and pages.
