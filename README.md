@@ -1,14 +1,6 @@
 ![logo](./.github/logo.png)
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Version-0.1.0-blue">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/Tested_up_to-6.6-blue">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/Requires_PHP-7.2-blue">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/highlight.js-11.9.0-blue">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/License-GPL_2.0-blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/Version-0.1.0-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/Tested_up_to-6.6-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/Requires_PHP-7.2-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/highlight.js-11.9.0-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/License-GPL_2.0-blue">
 
 **Codelight** is a WordPress plugin that integrates syntax highlighting into your posts and pages using [Highlight.js](https://highlightjs.org/). It allows you to choose from a variety of themes and customize syntax highlighting for code blocks. The plugin is easy to configure, providing an admin settings page where you can select the syntax highlighting theme and decide on the post types for which the highlighting should be enabled.
 
