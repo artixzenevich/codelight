@@ -1,10 +1,11 @@
 {
 	"name": "codelight",
 	"version": "0.1.0",
-	"description": "Example block scaffolded with Create Block tool.",
-	"author": "The WordPress Contributors",
+	"description": "A plugin for WordPress to add syntax highlighting with Highlight.js to code blocks, customizable for specific page types and entries.",
+	"author": "Artik Zenevich",
 	"license": "GPL-2.0-or-later",
 	"main": "build/index.js",
+	"github": "https://github.com/artixzenevich/codelight",
 	"scripts": {
 		"build": "wp-scripts build",
 		"format": "wp-scripts format",
